@@ -1,0 +1,931 @@
+LOCUS       Exported                6404 bp ds-DNA    circular SYN 10-6月-2023
+DEFINITION  .
+ACCESSION   .
+VERSION     .
+KEYWORDS    HSDSxlU4
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+REFERENCE   1  (bases 1 to 6404)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported 2024年12月3日 from SnapGene 2.3.2
+            http://www.snapgene.com
+COMMENT     
+FEATURES             Location/Qualifiers
+     source          1..6404
+                     /organism="synthetic DNA construct"
+                     /mol_type="other DNA"
+     source          1017..1996
+                     /organism="Drosophila melanogaster"
+                     /chromosome="X"
+                     /mol_type="genomic DNA"
+                     /note="/genotype=y[1]; Gr22b[1] Gr22d[1] cn[1] 
+                     CG33964[R4.2] bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] 
+                     Rh6[1]"
+                     /db_xref="taxon:7227"
+     source          4437..5436
+                     /organism="Drosophila melanogaster"
+                     /chromosome="X"
+                     /mol_type="genomic DNA"
+                     /note="/genotype=y[1]; Gr22b[1] Gr22d[1] cn[1] 
+                     CG33964[R4.2] bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] 
+                     Rh6[1]"
+                     /db_xref="taxon:7227"
+     source          5437..5456
+                     /organism="Drosophila melanogaster"
+                     /chromosome="X"
+                     /mol_type="genomic DNA"
+                     /note="/genotype=y[1]; Gr22b[1] Gr22d[1] cn[1] 
+                     CG33964[R4.2] bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] 
+                     Rh6[1]"
+                     /db_xref="taxon:7227"
+     CDS             complement(1..861)
+                     /locus_tag="AmpR"
+                     /label="AmpR"
+                     /note="AmpR"
+     primer_bind     898..918
+                     /locus_tag="Primer IHD_S_F"
+                     /label="Primer IHD_S_F"
+                     /note="Primer IHD_S_F"
+     promoter        complement(903..931)
+                     /locus_tag="Amp Promoter"
+                     /label="Amp Promoter"
+                     /note="Amp Promoter"
+     misc_feature    1011..1016
+                     /note="introduced cut site"
+     gene            1017..1996
+                     /map="6F3-6F5"
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /label="Sxl"
+                     /note="Sxl"
+                     /note="Sex lethal"
+                     /db_xref="FLYBASE:FBgn0264270"
+                     /db_xref="GeneID:3772180"
+     misc_feature    1017..1996
+                     /label="left homology arm"
+                     /note="left homology arm"
+     misc_feature    1980..1996
+                     /label="gRNA1"
+                     /note="gRNA1"
+     promoter        2008..2213
+                     /locus_tag="3xP3-hsp70 Promoter"
+                     /label="3xP3-hsp70 Promoter"
+                     /note="3xP3-hsp70 Promoter"
+     primer_bind     2067..2087
+                     /locus_tag="EGFPaLeft_S_F"
+                     /label="EGFPaLeft_S_F"
+                     /note="EGFPaLeft_S_F"
+     primer_bind     complement(2164..2188)
+                     /locus_tag="EGFPaLeft_S_R"
+                     /label="EGFPaLeft_S_R"
+                     /note="EGFPaLeft_S_R"
+     CDS             2233..2910
+                     /locus_tag="dsRed"
+                     /label="dsRed"
+                     /note="dsRed"
+     primer_bind     2701..2721
+                     /locus_tag="Primer dsRed_S_F"
+                     /label="Primer dsRed_S_F"
+                     /note="Primer dsRed_S_F"
+     primer_bind     complement(2824..2844)
+                     /locus_tag="Primer dsRed_S_R"
+                     /label="Primer dsRed_S_R"
+                     /note="Primer dsRed_S_R"
+     terminator      2911..3152
+                     /locus_tag="SV40 polyA"
+                     /label="SV40 polyA"
+                     /note="SV40 polyA terminator"
+     promoter        3159..3578
+                     /locus_tag="U6:3 Promoter"
+                     /label="U6:3 Promoter"
+                     /note="U6:3 Promoter"
+     primer_bind     3163..3183
+                     /locus_tag="Yellow_gRNA1_S_F"
+                     /label="Yellow_gRNA1_S_F"
+                     /note="Yellow_gRNA1_S_F"
+     misc_feature    3579..3598
+                     /note="Sxl gRNA3"
+     misc_RNA        3599..3675
+                     /locus_tag="gRNA Scaffold"
+                     /label="gRNA Scaffold"
+                     /note="gRNA Scaffold"
+     tRNA            3676..3752
+                     /locus_tag="tRNA"
+                     /label="tRNA"
+     misc_feature    3753..3772
+                     /note="Sxl gRNA2"
+     misc_RNA        3773..3849
+                     /locus_tag="gRNA Scaffold(2)"
+                     /label="gRNA Scaffold(2)"
+                     /note="gRNA Scaffold"
+     tRNA            3850..3926
+                     /locus_tag="tRNA(1)"
+                     /label="tRNA(1)"
+     misc_feature    3927..3946
+                     /note="Sxl gRNA1"
+     misc_RNA        3947..4023
+                     /locus_tag="gRNA Scaffold(3)"
+                     /label="gRNA Scaffold(3)"
+                     /note="gRNA Scaffold"
+     tRNA            4024..4100
+                     /locus_tag="tRNA(2)"
+                     /label="tRNA(2)"
+     misc_feature    4101..4120
+                     /note="Sxl gRNA4"
+     misc_RNA        4121..4202
+                     /locus_tag="gRNA Scaffold(1)"
+                     /label="gRNA Scaffold(1)"
+                     /note="gRNA Scaffold"
+     misc_feature    4203..4430
+                     /locus_tag="Homology Region"
+                     /label="Homology Region"
+                     /note="Homology Region"
+     primer_bind     complement(4327..4350)
+                     /locus_tag="Primer CFD5_S_R"
+                     /label="Primer CFD5_S_R"
+                     /note="Primer CFD5_S_R"
+     primer_bind     4356..4379
+                     /locus_tag="U6term_S_F"
+                     /label="U6term_S_F"
+                     /note="U6term_S_F"
+     misc_feature    4437..5456
+                     /label="right homology arm"
+                     /note="right homology arm"
+     gene            4437..5436
+                     /map="6F3-6F5"
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /label="Sxl"
+                     /note="Sxl"
+                     /note="Sex lethal"
+                     /db_xref="FLYBASE:FBgn0264270"
+                     /db_xref="GeneID:3772180"
+     ncRNA           4437..4458
+                     /gene="mir-4956"
+                     /gene_synonym="CR43548; dme-mir-4956; Dmel\CR43548"
+                     /locus_tag="Dmel_CR43548"
+                     /product="mir-4956-RA"
+                     /label="miRNA"
+                     /note="miRNA"
+                     /note="mir-4956-RA; Dmel\mir-4956-RA; CR43548-RA; 
+                     Dmel\CR43548-RA"
+                     /db_xref="FLYBASE:FBtr0309707"
+                     /db_xref="GeneID:12797944"
+                     /db_xref="miRBase:MIMAT0020173"
+                     /db_xref="FLYBASE:FBgn0263563"
+                     /db_xref="miRBase:MI0017742"
+                     /ncRNA_class="miRNA"
+     misc_feature    4437..4442
+                     /label="gRNA4"
+                     /note="gRNA4"
+     ncRNA           4470..4491
+                     /gene="mir-4956"
+                     /gene_synonym="CR43548; dme-mir-4956; Dmel\CR43548"
+                     /locus_tag="Dmel_CR43548"
+                     /product="mir-4956-RB"
+                     /label="miRNA"
+                     /note="miRNA"
+                     /note="mir-4956-RB; Dmel\mir-4956-RB; CR43548-RB; 
+                     Dmel\CR43548-RB"
+                     /db_xref="FLYBASE:FBtr0309708"
+                     /db_xref="GeneID:12797944"
+                     /db_xref="miRBase:MIMAT0020174"
+                     /db_xref="FLYBASE:FBgn0263563"
+                     /db_xref="miRBase:MI0017742"
+                     /ncRNA_class="miRNA"
+     CDS             4532..4552
+                     /codon_start=1
+                     /label="start of domain"
+                     /note="start of domain"
+                     /translation="TNLIVNY"
+     misc_feature    5437..5456
+                     /note="right homology arm"
+     CDS             5442..5456
+                     /codon_start=1
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, isoform E"
+                     /note="Sxl"
+                     /note="CG43770 gene product from transcript CG43770-RE; 
+                     CG43770-PE; Sxl-PE; Sex-kethal; sex-lethal; Sex lethal; 
+                     female lethal; sexlethal"
+                     /db_xref="FLYBASE:FBpp0303705"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+                     /protein_id="NP_727163.2"
+                     /translation="YNKR"
+     CDS             5442..5456
+                     /codon_start=1
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, isoform AC"
+                     /note="Sxl"
+                     /note="CG43770 gene product from transcript CG43770-RAC; 
+                     CG43770-PAC; Sxl-PAC; Sex-kethal; sex-lethal; Sex lethal; 
+                     female lethal; sexlethal"
+                     /db_xref="FLYBASE:FBpp0312374"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+                     /protein_id="NP_001303551.1"
+                     /translation="YNKR"
+     CDS             5442..5456
+                     /codon_start=1
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, isoform D"
+                     /note="Sxl"
+                     /note="CG43770 gene product from transcript CG43770-RD; 
+                     CG43770-PD; Sxl-PD; Sex-kethal; sex-lethal; Sex lethal; 
+                     female lethal; sexlethal"
+                     /db_xref="FLYBASE:FBpp0303704"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+                     /protein_id="NP_727162.2"
+                     /translation="YNKR"
+     CDS             5442..5456
+                     /codon_start=1
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, isoform L"
+                     /note="Sxl"
+                     /note="CG43770 gene product from transcript CG43770-RL; 
+                     CG43770-PL; Sxl-PL; Sex-kethal; sex-lethal; Sex lethal; 
+                     female lethal; sexlethal"
+                     /db_xref="FLYBASE:FBpp0303697"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+                     /protein_id="NP_001027065.1"
+                     /translation="YNKR"
+     CDS             5442..5456
+                     /codon_start=1
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, isoform T"
+                     /note="Sxl"
+                     /note="CG43770 gene product from transcript CG43770-RT; 
+                     CG43770-PT; Sxl-PT; Sex-kethal; sex-lethal; Sex lethal; 
+                     female lethal; sexlethal"
+                     /db_xref="FLYBASE:FBpp0303710"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+                     /protein_id="NP_001162690.1"
+                     /translation="YNKR"
+     CDS             5442..5456
+                     /codon_start=1
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, isoform G"
+                     /note="Sxl"
+                     /note="CG43770 gene product from transcript CG43770-RG; 
+                     CG43770-PG; Sxl-PG; Sex-kethal; sex-lethal; Sex lethal; 
+                     female lethal; sexlethal"
+                     /db_xref="FLYBASE:FBpp0303692"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+                     /protein_id="NP_727166.2"
+                     /translation="YNKR"
+     CDS             5442..5456
+                     /codon_start=1
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, isoform J"
+                     /note="Sxl"
+                     /note="CG43770 gene product from transcript CG43770-RJ; 
+                     CG43770-PJ; Sxl-PJ; Sex-kethal; sex-lethal; Sex lethal; 
+                     female lethal; sexlethal"
+                     /db_xref="FLYBASE:FBpp0303695"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+                     /protein_id="NP_727160.2"
+                     /translation="YNKR"
+     CDS             5442..5456
+                     /codon_start=1
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, isoform C"
+                     /note="Sxl"
+                     /note="CG43770 gene product from transcript CG43770-RC; 
+                     CG43770-PC; Sxl-PC; Sex-kethal; sex-lethal; Sex lethal; 
+                     female lethal; sexlethal"
+                     /db_xref="FLYBASE:FBpp0303703"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+                     /protein_id="NP_524791.3"
+                     /translation="YNKR"
+     CDS             5442..5456
+                     /codon_start=1
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, isoform N"
+                     /note="Sxl"
+                     /note="CG43770 gene product from transcript CG43770-RN; 
+                     CG43770-PN; Sxl-PN; Sex-kethal; sex-lethal; Sex lethal; 
+                     female lethal; sexlethal"
+                     /db_xref="FLYBASE:FBpp0303699"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+                     /protein_id="NP_001027063.1"
+                     /translation="YNKR"
+     mRNA            5442..5456
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, transcript variant J"
+                     /note="Sxl mRNA"
+                     /note="Sxl-RJ; Dmel\Sxl-RJ; CG43770-RJ; Dmel\CG43770-RJ"
+                     /note="/transcript_id=NM_167110.3"
+                     /db_xref="FLYBASE:FBtr0331253"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+     mRNA            5442..5456
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, transcript variant Q"
+                     /note="Sxl mRNA"
+                     /note="Sxl-RQ; Dmel\Sxl-RQ; CG43770-RQ; Dmel\CG43770-RQ"
+                     /note="/transcript_id=NM_001169216.2"
+                     /db_xref="FLYBASE:FBtr0331265"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+     mRNA            5442..5456
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, transcript variant AA"
+                     /note="Sxl mRNA"
+                     /note="Sxl-RAA; Dmel\Sxl-RAA; CG43770-RAA; 
+                     Dmel\CG43770-RAA"
+                     /note="/transcript_id=NM_001272377.1"
+                     /db_xref="FLYBASE:FBtr0336728"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+     mRNA            5442..5456
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, transcript variant B"
+                     /note="Sxl mRNA"
+                     /note="Sxl-RB; Dmel\Sxl-RB; CG43770-RB; Dmel\CG43770-RB"
+                     /note="/transcript_id=NM_167118.2"
+                     /db_xref="FLYBASE:FBtr0331260"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+     mRNA            5442..5456
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, transcript variant L"
+                     /note="Sxl mRNA"
+                     /note="Sxl-RL; Dmel\Sxl-RL; CG43770-RL; Dmel\CG43770-RL"
+                     /note="/transcript_id=NM_001031894.1"
+                     /db_xref="FLYBASE:FBtr0331255"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+     mRNA            5442..5456
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, transcript variant AB"
+                     /note="Sxl mRNA"
+                     /note="Sxl-RAB; Dmel\Sxl-RAB; CG43770-RAB; 
+                     Dmel\CG43770-RAB; unusual splice"
+                     /note="/exception=nonconsensus splice site"
+                     /note="/transcript_id=NM_001169218.3"
+                     /db_xref="FLYBASE:FBtr0336729"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+     mRNA            5442..5456
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, transcript variant AC"
+                     /note="Sxl mRNA"
+                     /note="Sxl-RAC; Dmel\Sxl-RAC; CG43770-RAC; 
+                     Dmel\CG43770-RAC"
+                     /note="/transcript_id=NM_001316622.1"
+                     /db_xref="FLYBASE:FBtr0346796"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+     mRNA            5442..5456
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, transcript variant N"
+                     /note="Sxl mRNA"
+                     /note="Sxl-RN; Dmel\Sxl-RN; CG43770-RN; Dmel\CG43770-RN"
+                     /note="/transcript_id=NM_001031892.2"
+                     /db_xref="FLYBASE:FBtr0331257"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+     mRNA            5442..5456
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, transcript variant A"
+                     /note="Sxl mRNA"
+                     /note="Sxl-RA; Dmel\Sxl-RA; CG43770-RA; Dmel\CG43770-RA"
+                     /note="/transcript_id=NM_167115.3"
+                     /db_xref="FLYBASE:FBtr0331259"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+     mRNA            5442..5456
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, transcript variant E"
+                     /note="Sxl mRNA"
+                     /note="Sxl-RE; Dmel\Sxl-RE; CG43770-RE; Dmel\CG43770-RE"
+                     /note="/transcript_id=NM_167113.3"
+                     /db_xref="FLYBASE:FBtr0331263"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+     mRNA            5442..5456
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, transcript variant G"
+                     /note="Sxl mRNA"
+                     /note="Sxl-RG; Dmel\Sxl-RG; CG43770-RG; Dmel\CG43770-RG"
+                     /note="/transcript_id=NM_167116.2"
+                     /db_xref="FLYBASE:FBtr0331250"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+     mRNA            5442..5456
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, transcript variant Z"
+                     /note="Sxl mRNA"
+                     /note="Sxl-RZ; Dmel\Sxl-RZ; CG43770-RZ; Dmel\CG43770-RZ"
+                     /note="/transcript_id=NM_001272376.1"
+                     /db_xref="FLYBASE:FBtr0336727"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+     mRNA            5442..5456
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, transcript variant F"
+                     /note="Sxl mRNA"
+                     /note="Sxl-RF; Dmel\Sxl-RF; CG43770-RF; Dmel\CG43770-RF"
+                     /note="/transcript_id=NM_167117.2"
+                     /db_xref="FLYBASE:FBtr0331249"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+     mRNA            5442..5456
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, transcript variant D"
+                     /note="Sxl mRNA"
+                     /note="Sxl-RD; Dmel\Sxl-RD; CG43770-RD; Dmel\CG43770-RD"
+                     /note="/transcript_id=NM_167112.2"
+                     /db_xref="FLYBASE:FBtr0331262"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+     CDS             5442..5456
+                     /codon_start=1
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, isoform W"
+                     /note="Sxl"
+                     /note="CG43770 gene product from transcript CG43770-RW; 
+                     CG43770-PW; Sxl-PW; Sex-kethal; sex-lethal; Sex lethal; 
+                     female lethal; sexlethal"
+                     /db_xref="FLYBASE:FBpp0303689"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+                     /protein_id="NP_727161.3"
+                     /translation="YNKR"
+     CDS             5442..5456
+                     /codon_start=1
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, isoform O"
+                     /note="Sxl"
+                     /note="CG43770 gene product from transcript CG43770-RO; 
+                     CG43770-PO; Sxl-PO; Sex-kethal; sex-lethal; Sex lethal; 
+                     female lethal; sexlethal"
+                     /db_xref="FLYBASE:FBpp0303700"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+                     /protein_id="NP_001027062.1"
+                     /translation="YNKR"
+     CDS             5442..5456
+                     /codon_start=1
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, isoform R"
+                     /note="Sxl"
+                     /note="CG43770 gene product from transcript CG43770-RR; 
+                     CG43770-PR; Sxl-PR; Sex-kethal; sex-lethal; Sex lethal; 
+                     female lethal; sexlethal"
+                     /db_xref="FLYBASE:FBpp0303708"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+                     /protein_id="NP_001162688.1"
+                     /translation="YNKR"
+     CDS             5442..5456
+                     /codon_start=1
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, isoform Y"
+                     /note="Sxl"
+                     /note="CG43770 gene product from transcript CG43770-RY; 
+                     CG43770-PY; Sxl-PY; Sex-kethal; sex-lethal; Sex lethal; 
+                     female lethal; sexlethal"
+                     /db_xref="FLYBASE:FBpp0303713"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+                     /protein_id="NP_001259304.1"
+                     /translation="YNKR"
+     CDS             5442..5456
+                     /codon_start=1
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, isoform X"
+                     /note="Sxl"
+                     /note="CG43770 gene product from transcript CG43770-RX; 
+                     CG43770-PX; Sxl-PX; Sex-kethal; sex-lethal; Sex lethal; 
+                     female lethal; sexlethal"
+                     /db_xref="FLYBASE:FBpp0303712"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+                     /protein_id="NP_001259303.1"
+                     /translation="YNKR"
+     mRNA            5442..5456
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, transcript variant W"
+                     /note="Sxl mRNA"
+                     /note="Sxl-RW; Dmel\Sxl-RW; CG43770-RW; Dmel\CG43770-RW"
+                     /note="/transcript_id=NM_167111.3"
+                     /db_xref="FLYBASE:FBtr0331247"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+     mRNA            5442..5456
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, transcript variant R"
+                     /note="Sxl mRNA"
+                     /note="Sxl-RR; Dmel\Sxl-RR; CG43770-RR; Dmel\CG43770-RR"
+                     /note="/transcript_id=NM_001169217.2"
+                     /db_xref="FLYBASE:FBtr0331266"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+     mRNA            5442..5456
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, transcript variant M"
+                     /note="Sxl mRNA"
+                     /note="Sxl-RM; Dmel\Sxl-RM; CG43770-RM; Dmel\CG43770-RM"
+                     /note="/transcript_id=NM_001031893.2"
+                     /db_xref="FLYBASE:FBtr0331256"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+     mRNA            5442..5456
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, transcript variant Y"
+                     /note="Sxl mRNA"
+                     /note="Sxl-RY; Dmel\Sxl-RY; CG43770-RY; Dmel\CG43770-RY"
+                     /note="/transcript_id=NM_001272375.2"
+                     /db_xref="FLYBASE:FBtr0331271"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+     mRNA            5442..5456
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, transcript variant P"
+                     /note="Sxl mRNA"
+                     /note="Sxl-RP; Dmel\Sxl-RP; CG43770-RP; Dmel\CG43770-RP"
+                     /note="/transcript_id=NM_001169215.2"
+                     /db_xref="FLYBASE:FBtr0331264"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+     mRNA            5442..5456
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, transcript variant H"
+                     /note="Sxl mRNA"
+                     /note="Sxl-RH; Dmel\Sxl-RH; CG43770-RH; Dmel\CG43770-RH"
+                     /note="/transcript_id=NM_167114.2"
+                     /db_xref="FLYBASE:FBtr0331251"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+     mRNA            5442..5456
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, transcript variant X"
+                     /note="Sxl mRNA"
+                     /note="Sxl-RX; Dmel\Sxl-RX; CG43770-RX; Dmel\CG43770-RX"
+                     /note="/transcript_id=NM_001272374.1"
+                     /db_xref="FLYBASE:FBtr0331270"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+     mRNA            5442..5456
+                     /gene="Sxl"
+                     /gene_synonym="CG14425; CG18350; CG33070; CG43770; Dm-Sxl; 
+                     Dmel\CG43770; DmSxl; dSXL; Fl; fs(1)K1274; fs(1)M106; 
+                     l(1)6Fa; melSxl; Mex156; ORF2; Su(da); Sx1; sxl; SxL; SXL; 
+                     Sxl-1 Sxl-2; Sxl-Pe; SxlPe; SxlPm"
+                     /locus_tag="Dmel_CG43770"
+                     /old_locus_tag="Dmel_CG14425; Dmel_CG18350"
+                     /product="Sex lethal, transcript variant O"
+                     /note="Sxl mRNA"
+                     /note="Sxl-RO; Dmel\Sxl-RO; CG43770-RO; Dmel\CG43770-RO"
+                     /note="/transcript_id=NM_001031891.3"
+                     /db_xref="FLYBASE:FBtr0331258"
+                     /db_xref="GeneID:3772180"
+                     /db_xref="FLYBASE:FBgn0264270"
+     misc_feature    5457..5462
+                     /note="introduced site"
+     primer_bind     complement(5518..5537)
+                     /locus_tag="pBB_S_R"
+                     /label="pBB_S_R"
+                     /note="pBB_S_R"
+     rep_origin      5638..6303
+                     /locus_tag="Origin"
+                     /label="Origin"
+ORIGIN
+        1 ttaccaatgc ttaatcagtg aggcacctat ctcagcgatc tgtctatttc gttcatccat
+       61 agttgcctga ctccccgtcg tgtagataac tacgatacgg gagggcttac catctggccc
+      121 cagcgctgcg atgataccgc gagaaccacg ctcaccggct ccggatttat cagcaataaa
+      181 ccagccagcc ggaagggccg agcgcagaag tggtcctgca actttatccg cctccatcca
+      241 gtctattaat tgttgccggg aagctagagt aagtagttcg ccagttaata gtttgcgcaa
+      301 cgttgttgcc atcgctacag gcatcgtggt gtcacgctcg tcgtttggta tggcttcatt
+      361 cagctccggt tcccaacgat caaggcgagt tacatgatcc cccatgttgt gcaaaaaagc
+      421 ggttagctcc ttcggtcctc cgatcgttgt cagaagtaag ttggccgcag tgttatcact
+      481 catggttatg gcagcactgc ataattctct tactgtcatg ccatccgtaa gatgcttttc
+      541 tgtgactggt gagtactcaa ccaagtcatt ctgagaatag tgtatgcggc gaccgagttg
+      601 ctcttgcccg gcgtcaatac gggataatac cgcgccacat agcagaactt taaaagtgct
+      661 catcattgga aaacgttctt cggggcgaaa actctcaagg atcttaccgc tgttgagatc
+      721 cagttcgatg taacccactc gtgcacccaa ctgatcttca gcatctttta ctttcaccag
+      781 cgtttctggg tgagcaaaaa caggaaggca aaatgccgca aaaaagggaa taagggcgac
+      841 acggaaatgt tgaatactca tattcttcct ttttcaatat tattgaagca tttatcaggg
+      901 ttattgtctc atgagcggat acatatttga atgtatttag aaaaataaac aaataggggt
+      961 cagtgttaca accaattaac caattctgaa cattatcgcg agcccacgtg accggttgcg
+     1021 cagtctttac cacacagact tgcaaaaata ttggacgaca cacttgacgc cattgcatta
+     1081 gatgacacta aaaagtgggc atttaattaa aaaaaaaata tcccattcca tttgaagcat
+     1141 caactaaatc acttcattga tcatcccagg cgcataataa catattgaaa aaaaaacttt
+     1201 attgatcggt ttctggctca ttgtcattat atttttgcct cgcactgtat ttcttctacg
+     1261 ttaatgacac agaccctcag aaaacacaca ttcaaagaaa aacttaaaga gacttaacac
+     1321 aatacactta agaaaagctc aagaaaactg agaaaggaaa gaaacatttt atgcatttct
+     1381 tgaaattcca tttttttttt ctttggtttt tgcaaccctg tgaatgccgt ttagctcaca
+     1441 caaacaaata cacacacgga agtacagtga agcaagagaa tgtttcgatt taatgcttaa
+     1501 atcaaaaatc aaatccaatt caaaatcgct gcactcgagt ttcaagcacg cccttaaatc
+     1561 taaccaatga aattcaaaga actaacgatt tttcgcgaga tatgcatttg gaatattgtt
+     1621 accgttagcg tttttgtcgt agatttctac gttttaagcc actccgaacc ttcgccagcc
+     1681 acctcatcca ctaagcaagt tgtgtgttgt tgttgctgcc gccaaaaagc aacgatcgat
+     1741 atatatgtat tgtgtctata tcgatatcga gaactcgaga attattataa caaccaagca
+     1801 gcagcagcca gtcaaaacgt atcgaaccga accaaaccat ccaatccaat caatctacta
+     1861 ataattaacc ccaagacaag cgatatgagg ccttctcaca acactagaat atctttgtat
+     1921 ggttaatctg attacagtca cgttatgcgt tctcgccaca ggatacagaa ttttcatttc
+     1981 caagttcatc gtcgcggcta aggccgcgga tctaattcaa ttagagacta attcaattag
+     2041 agctaattca attaggatcc aagcttatcg atttcgaacc ctcgaccgcc ggagtataaa
+     2101 tagaggcgct tcgtctacgg agcgacaatt caattcaaac aagcaaagtg aacacgtcgc
+     2161 taagcgaaag ctaagcaaat aaacaagcgc agctgaacaa gctaaacaat cggctcgaag
+     2221 ccggtcgcca ccatggcctc ctccgaggac gtcatcaagg agttcatgcg cttcaaggtg
+     2281 cgcatggagg gctccgtgaa cggccacgag ttcgagatcg agggcgaggg cgagggccgc
+     2341 ccctacgagg gcacccagac cgccaagctg aaggtgacca agggcggccc cctgcccttc
+     2401 gcctgggaca tcctgtcccc ccagttccag tacggctcca aggtgtacgt gaagcacccc
+     2461 gccgacatcc ccgactacaa gaagctgtcc ttccccgagg gcttcaagtg ggagcgcgtg
+     2521 atgaacttcg aggacggcgg cgtggtgacc gtgacccagg actcctccct ccaggacggc
+     2581 tccttcatct acaaggtgaa gttcatcggc gtgaacttcc cctccgacgg ccccgtaatg
+     2641 cagaagaaga ctatgggctg ggaggcgtcc accgagcgcc tgtacccccg cgacggcgtg
+     2701 ctgaagggcg agatccacaa ggccctgaag ctgaaggacg gcggccacta cctggtggag
+     2761 ttcaagtcca tctacatggc caagaagccc gtgcagctgc ccggctacta ctacgtggac
+     2821 tccaagctgg acatcacctc ccacaacgag gactacacca tcgtggagca gtacgagcgc
+     2881 gccgagggcc gccaccacct gttcctgtag gggccgcgac tctagatcat aatcagccat
+     2941 accacatttg tagaggtttt acttgcttta aaaaacctcc cacacctccc cctgaacctg
+     3001 aaacataaaa tgaatgcaat tgttgttgtt aacttgttta ttgcagctta taatggttac
+     3061 aaataaagca atagcatcac aaatttcaca aataaagcat ttttttcact gcattctagt
+     3121 tgtggtttgt ccaaactcat caatgtatct taacgcgttt ttttgctcac ctgtgattgc
+     3181 tcctactcaa atacaaaaac atcaaatttt ctgtcaataa agcatattta tttatattta
+     3241 ttttacagga aagaattcct tttaaagtgt attttaacct ataatgaaaa acgattaaaa
+     3301 aaaatacata aaataattcg aaaatttttg aatagcccag gttgataaaa attcatttca
+     3361 tacgttttat aacttatgcc cctaagtatt ttttgaccat agtgtttcaa ttctacatta
+     3421 attttacaga gtagaatgaa acgccaccta ctcagccaag aggcgaaaag gttagctcgc
+     3481 caagcagaga gggcgccagt gctcactact ttttataatt ctcaacttct ttttccagac
+     3541 tcagttcgta tatatagacc tattttcaat ttaacgtcgt gggagtgcca acaatttagt
+     3601 tttagagcta gaaatagcaa gttaaaataa ggctagtccg ttatcaactt gaaaaagtgg
+     3661 caccgagtcg gtgctaacaa agcaccagtg gtctagtggt agaatagtac cctgccacgg
+     3721 tacagacccg ggttcgattc ccggctggtg cattccccgg ctgcggcggc aggttttaga
+     3781 gctagaaata gcaagttaaa ataaggctag tccgttatca acttgaaaaa gtggcaccga
+     3841 gtcggtgcta acaaagcacc agtggtctag tggtagaata gtaccctgcc acggtacaga
+     3901 cccgggttcg attcccggct ggtgcaccaa gttcatcgtc gcgtcggttt tagagctaga
+     3961 aatagcaagt taaaataagg ctagtccgtt atcaacttga aaaagtggca ccgagtcggt
+     4021 gctaacaaag caccagtggt ctagtggtag aatagtaccc tgccacggta cagacccggg
+     4081 ttcgattccc ggctggtgca catgtgccac ctgccgccga gttttagagc tagaaatagc
+     4141 aagttaaaat aaggctagtc cgttatcaac ttgaaaaagt ggcaccgagt cggtgctttt
+     4201 ttgcctacct ggagcctgag agttgttcaa taaaataaaa atgtttcgtt tttttgcttt
+     4261 cgccagtatt tattattttt catcaatatg tattcaattt ggtatgtatt tagtaattgt
+     4321 aatatataga caatggtttt ccgttgacgt acatacatct gacgtgtgtt tatttagaca
+     4381 taatagttat gttttcacat ctttttaatg ttcgcttaat gcgtatgcat aggcctcgat
+     4441 ggccagcaac aactcgctga ataatctctg cggattgtcg ctgggcagcg gtggtagtga
+     4501 tgatctcatg aacgatcctc gggcaagcaa caccaacctg attgtcaact acttgcccca
+     4561 ggacatgacc gatcgcgagc tgtacgccct attcagagcc attggaccca tcaacacgtg
+     4621 cagaatcatg cgagactata aggtaagcgt cttttctcca aatatatcag atagctgata
+     4681 gctcatctat cttctcaagc aaataacaaa cctaactaaa tcttaatttt tatcatctaa
+     4741 cagactggct acagttttgg ttatgctttc gtggacttca catcggaaat ggactcgcag
+     4801 cgtgctatta aagtgctgaa tggcatcaca gtgcgcaaca agcggcttaa ggtgagatct
+     4861 ttgaaacaca ccaatcacac aaagagttag ttaactaatc catttcatta ttttcgaaca
+     4921 ggtttcctat gcacgtcccg gcggagaatc gatcaaggac accaatctgt atgtgaccaa
+     4981 tctgccgcgt accataaccg acgatcagct ggacacgatc ttcggcaagt acggttccat
+     5041 tgtgcagaag aacatcttgc gtgacaagct cacaggtcgt cctcgtggtg tggcctttgt
+     5101 tcggtgagtg cccaatatag ttttatatgg ttaagatatg tgcaatcaga agactagatg
+     5161 gtctgttaat gtccacaatc gaggttctct gagtcgaaca ttttgttttg tcactaaaac
+     5221 ttcattaaac ttaaatgttg gaagtataga agaatttgtc gactcacaga acctttgaat
+     5281 gtatcccttt ggtcaattgt attatgtttt cttttcccct tattatttcg acacccggct
+     5341 cattatgtgt tttctttctt ttctctcatt tttataaacc tcatttgcca tctacaacta
+     5401 ctatggtgtg ttatttcgat cgataaatca aaactatgca ggtacaacaa gcgtgagcta
+     5461 gcgtcagggg ccttctgctt agtttgatgc ctggcagttc cctactctcg ccttccgctt
+     5521 cctcgctcac tgactcgctg cgctcggtcg ttcggctgcg gcgagcggta tcagctcact
+     5581 caaaggcggt aatacggtta tccacagaat caggggataa cgcaggaaag aacatgtgag
+     5641 caaaaggcca gcaaaaggcc aggaaccgta aaaaggccgc gttgctggcg tttttccata
+     5701 ggctccgccc ccctgacgag catcacaaaa atcgacgctc aagtcagagg tggcgaaacc
+     5761 cgacaggact ataaagatac caggcgtttc cccctggaag ctccctcgtg cgctctcctg
+     5821 ttccgaccct gccgcttacc ggatacctgt ccgcctttct cccttcggga agcgtggcgc
+     5881 tttctcatag ctcacgctgt aggtatctca gttcggtgta ggtcgttcgc tccaagctgg
+     5941 gctgtgtgca cgaacccccc gttcagcccg accgctgcgc cttatccggt aactatcgtc
+     6001 ttgagtccaa cccggtaaga cacgacttat cgccactggc agcagccact ggtaacagga
+     6061 ttagcagagc gaggtatgta ggcggtgcta cagagttctt gaagtggtgg gctaactacg
+     6121 gctacactag aagaacagta tttggtatct gcgctctgct gaagccagtt accttcggaa
+     6181 aaagagttgg tagctcttga tccggcaaac aaaccaccgc tggtagcggt ggtttttttg
+     6241 tttgcaagca gcagattacg cgcagaaaaa aaggatctca agaagatcct ttgatctttt
+     6301 ctacggggtc tgacgctcag tggaacgacg cgcgcgtaac tcacgttaag ggattttggt
+     6361 catgagcttg cgccgtcccg tcaagtcagc gtaatgctct gctt
+//

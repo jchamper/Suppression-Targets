@@ -1,0 +1,496 @@
+LOCUS       Exported                6468 bp ds-DNA    circular SYN 10-6月-2023
+DEFINITION  .
+ACCESSION   .
+VERSION     .
+KEYWORDS    HSDixU4
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+REFERENCE   1  (bases 1 to 6468)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported 2024年12月3日 from SnapGene 2.3.2
+            http://www.snapgene.com
+COMMENT     
+FEATURES             Location/Qualifiers
+     source          1..6468
+                     /organism="synthetic DNA construct"
+                     /mol_type="other DNA"
+     source          1017..1036
+                     /organism="Drosophila melanogaster"
+                     /chromosome="2R"
+                     /mol_type="genomic DNA"
+                     /note="/genotype=y[1]; Gr22b[1] Gr22d[1] cn[1] 
+                     CG33964[R4.2] bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] 
+                     Rh6[1]"
+                     /db_xref="taxon:7227"
+     source          1037..2036
+                     /organism="Drosophila melanogaster (fruit fly)"
+                     /mol_type="genomic DNA"
+     source          1037..1813
+                     /organism="Drosophila melanogaster"
+                     /chromosome="2R"
+                     /mol_type="genomic DNA"
+                     /note="/genotype=y[1]; Gr22b[1] Gr22d[1] cn[1] 
+                     CG33964[R4.2] bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] 
+                     Rh6[1]"
+                     /db_xref="taxon:7227"
+     source          1814..2036
+                     /organism="Drosophila melanogaster"
+                     /chromosome="2R"
+                     /mol_type="genomic DNA"
+                     /note="/genotype=y[1]; Gr22b[1] Gr22d[1] cn[1] 
+                     CG33964[R4.2] bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] 
+                     Rh6[1]"
+                     /db_xref="taxon:7227"
+     source          3619..3638
+                     /organism="Drosophila melanogaster"
+                     /chromosome="2R"
+                     /mol_type="genomic DNA"
+                     /note="/genotype=y[1]; Gr22b[1] Gr22d[1] cn[1] 
+                     CG33964[R4.2] bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] 
+                     Rh6[1]"
+                     /db_xref="taxon:7227"
+     source          3619..3638
+                     /organism="Drosophila melanogaster (fruit fly)"
+                     /mol_type="genomic DNA"
+     source          3967..3986
+                     /organism="Drosophila melanogaster"
+                     /chromosome="2R"
+                     /mol_type="genomic DNA"
+                     /note="/genotype=y[1]; Gr22b[1] Gr22d[1] cn[1] 
+                     CG33964[R4.2] bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] 
+                     Rh6[1]"
+                     /db_xref="taxon:7227"
+     source          3967..3986
+                     /organism="Drosophila melanogaster (fruit fly)"
+                     /mol_type="genomic DNA"
+     source          4141..4160
+                     /organism="Drosophila melanogaster"
+                     /chromosome="2R"
+                     /mol_type="genomic DNA"
+                     /note="/genotype=y[1]; Gr22b[1] Gr22d[1] cn[1] 
+                     CG33964[R4.2] bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] 
+                     Rh6[1]"
+                     /db_xref="taxon:7227"
+     source          4141..4160
+                     /organism="Drosophila melanogaster (fruit fly)"
+                     /mol_type="genomic DNA"
+     source          4477..5476
+                     /organism="Drosophila melanogaster (fruit fly)"
+                     /mol_type="genomic DNA"
+     source          4477..4896
+                     /organism="Drosophila melanogaster"
+                     /chromosome="2R"
+                     /mol_type="genomic DNA"
+                     /note="/genotype=y[1]; Gr22b[1] Gr22d[1] cn[1] 
+                     CG33964[R4.2] bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] 
+                     Rh6[1]"
+                     /db_xref="taxon:7227"
+     source          4897..5476
+                     /organism="Drosophila melanogaster"
+                     /chromosome="2R"
+                     /mol_type="genomic DNA"
+                     /note="/genotype=y[1]; Gr22b[1] Gr22d[1] cn[1] 
+                     CG33964[R4.2] bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] 
+                     Rh6[1]"
+                     /db_xref="taxon:7227"
+     source          5477..5520
+                     /organism="Drosophila melanogaster"
+                     /chromosome="2R"
+                     /mol_type="genomic DNA"
+                     /note="/genotype=y[1]; Gr22b[1] Gr22d[1] cn[1] 
+                     CG33964[R4.2] bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] 
+                     Rh6[1]"
+                     /db_xref="taxon:7227"
+     CDS             complement(1..861)
+                     /locus_tag="AmpR"
+                     /label="AmpR"
+                     /note="AmpR"
+     primer_bind     898..918
+                     /locus_tag="Primer IHD_S_F"
+                     /label="Primer IHD_S_F"
+                     /note="Primer IHD_S_F"
+     promoter        complement(903..931)
+                     /locus_tag="Amp Promoter"
+                     /label="Amp Promoter"
+                     /note="Amp Promoter"
+     misc_feature    1011..1016
+                     /note="introduced cut site"
+     misc_feature    1017..2036
+                     /label="left homology arm"
+                     /note="left homology arm"
+     misc_feature    1017..1036
+                     /note="left homology arm-primer"
+     gene            complement(1037..1271)
+                     /map="47F5-47F5"
+                     /gene="san"
+                     /gene_synonym="atado; CG12352; DmAAF34715; Dmel\CG12352; 
+                     dNaa50; Naa50; NAA50; San; span"
+                     /locus_tag="Dmel_CG12352"
+                     /label="san"
+                     /note="san"
+                     /note="separation anxiety"
+                     /db_xref="FLYBASE:FBgn0024188"
+                     /db_xref="GeneID:44724"
+     mRNA            complement(1145..1271)
+                     /gene="san"
+                     /gene_synonym="atado; CG12352; DmAAF34715; Dmel\CG12352; 
+                     dNaa50; Naa50; NAA50; San; span"
+                     /locus_tag="Dmel_CG12352"
+                     /product="separation anxiety"
+                     /label="san mRNA"
+                     /note="san mRNA"
+                     /note="san-RA; Dmel\san-RA; CG12352-RA; Dmel\CG12352-RA"
+                     /note="/transcript_id=NM_080040.5"
+                     /db_xref="FLYBASE:FBtr0088126"
+                     /db_xref="GeneID:44724"
+                     /db_xref="FLYBASE:FBgn0024188"
+     CDS             complement(1145..1152)
+                     /codon_start=1
+                     /gene="san"
+                     /gene_synonym="atado; CG12352; DmAAF34715; Dmel\CG12352; 
+                     dNaa50; Naa50; NAA50; San; span"
+                     /locus_tag="Dmel_CG12352"
+                     /product="separation anxiety"
+                     /label="san"
+                     /note="san"
+                     /note="CG12352 gene product from transcript CG12352-RA; 
+                     CG12352-PA; san-PA; N(alpha)-acetyltransferase 50; 
+                     complementation group 2; atado"
+                     /db_xref="GI:17864390"
+                     /db_xref="FLYBASE:FBpp0087227"
+                     /db_xref="GeneID:44724"
+                     /db_xref="FLYBASE:FBgn0024188"
+                     /protein_id="NP_524779.1"
+                     /translation="MT"
+     mRNA            1814..2036
+                     /gene="ix"
+                     /gene_synonym="CG13201; Dmel\CG13201; IX; Med29; MED29"
+                     /locus_tag="Dmel_CG13201"
+                     /product="intersex"
+                     /label="ix mRNA"
+                     /note="ix mRNA"
+                     /note="ix-RA; Dmel\ix-RA; CG13201-RA; Dmel\CG13201-RA"
+                     /note="/transcript_id=NM_136833.2"
+                     /db_xref="FLYBASE:FBtr0088154"
+                     /db_xref="GeneID:45881"
+                     /db_xref="FLYBASE:FBgn0001276"
+     gene            1814..2036
+                     /map="47F5-47F5"
+                     /gene="ix"
+                     /gene_synonym="CG13201; Dmel\CG13201; IX; Med29; MED29"
+                     /locus_tag="Dmel_CG13201"
+                     /label="ix"
+                     /note="ix"
+                     /note="intersex"
+                     /db_xref="FLYBASE:FBgn0001276"
+                     /db_xref="GeneID:45881"
+     CDS             1892..2036
+                     /codon_start=1
+                     /gene="ix"
+                     /gene_synonym="CG13201; Dmel\CG13201; IX; Med29; MED29"
+                     /locus_tag="Dmel_CG13201"
+                     /product="intersex"
+                     /label="ix"
+                     /note="ix"
+                     /note="CG13201 gene product from transcript CG13201-RA; 
+                     CG13201-PA; ix-PA; mediator complex subunit 29"
+                     /db_xref="FLYBASE:FBpp0087251"
+                     /db_xref="GeneID:45881"
+                     /db_xref="FLYBASE:FBgn0001276"
+                     /protein_id="NP_610677.1"
+                     /translation="MNPNMNMMPMSGPQMMQVMQSSPSGPPGPVQHQQQQPPQPLQQQQ
+                     QAE"
+     misc_feature    2020..2036
+                     /label="gRNA1"
+                     /note="gRNA1"
+     misc_feature    2029..2036
+                     /label="start of 5' domain"
+                     /note="start of 5' domain"
+     promoter        2048..2253
+                     /locus_tag="3xP3-hsp70 Promoter"
+                     /label="3xP3-hsp70 Promoter"
+                     /note="3xP3-hsp70 Promoter"
+     primer_bind     2107..2127
+                     /locus_tag="EGFPaLeft_S_F"
+                     /label="EGFPaLeft_S_F"
+                     /note="EGFPaLeft_S_F"
+     primer_bind     complement(2204..2228)
+                     /locus_tag="EGFPaLeft_S_R"
+                     /label="EGFPaLeft_S_R"
+                     /note="EGFPaLeft_S_R"
+     CDS             2273..2950
+                     /locus_tag="dsRed"
+                     /label="dsRed"
+                     /note="dsRed"
+     primer_bind     2741..2761
+                     /locus_tag="Primer dsRed_S_F"
+                     /label="Primer dsRed_S_F"
+                     /note="Primer dsRed_S_F"
+     primer_bind     complement(2864..2884)
+                     /locus_tag="Primer dsRed_S_R"
+                     /label="Primer dsRed_S_R"
+                     /note="Primer dsRed_S_R"
+     terminator      2951..3192
+                     /locus_tag="SV40 polyA"
+                     /label="SV40 polyA"
+                     /note="SV40 polyA terminator"
+     promoter        3199..3618
+                     /locus_tag="U6:3 Promoter"
+                     /label="U6:3 Promoter"
+                     /note="U6:3 Promoter"
+     primer_bind     3203..3223
+                     /locus_tag="Yellow_gRNA1_S_F"
+                     /label="Yellow_gRNA1_S_F"
+                     /note="Yellow_gRNA1_S_F"
+     misc_feature    3619..3638
+                     /label="gRNA1"
+                     /note="ix gRNA1"
+     misc_RNA        3639..3715
+                     /locus_tag="gRNA Scaffold"
+                     /label="gRNA Scaffold"
+                     /note="gRNA Scaffold"
+     tRNA            3716..3792
+                     /locus_tag="tRNA"
+                     /label="tRNA"
+     misc_feature    3793..3812
+                     /note="ix gRNA2"
+     misc_RNA        3813..3889
+                     /locus_tag="gRNA Scaffold(2)"
+                     /label="gRNA Scaffold(2)"
+                     /note="gRNA Scaffold"
+     tRNA            3890..3966
+                     /locus_tag="tRNA(1)"
+                     /label="tRNA(1)"
+     misc_feature    3967..3986
+                     /label="gRNA3"
+                     /note="ix gRNA3"
+     misc_RNA        3987..4063
+                     /locus_tag="gRNA Scaffold(3)"
+                     /label="gRNA Scaffold(3)"
+                     /note="gRNA Scaffold"
+     tRNA            4064..4140
+                     /locus_tag="tRNA(2)"
+                     /label="tRNA(2)"
+     misc_feature    4141..4160
+                     /label="gRNA4"
+                     /note="ix gRNA4"
+     misc_RNA        4161..4242
+                     /locus_tag="gRNA Scaffold(1)"
+                     /label="gRNA Scaffold(1)"
+                     /note="gRNA Scaffold"
+     misc_feature    4243..4470
+                     /locus_tag="Homology Region"
+                     /label="Homology Region"
+                     /note="Homology Region"
+     primer_bind     complement(4367..4390)
+                     /locus_tag="Primer CFD5_S_R"
+                     /label="Primer CFD5_S_R"
+                     /note="Primer CFD5_S_R"
+     primer_bind     4396..4419
+                     /locus_tag="U6term_S_F"
+                     /label="U6term_S_F"
+                     /note="U6term_S_F"
+     misc_feature    4477..5520
+                     /label="right homology arm"
+                     /note="right homology arm"
+     mRNA            4477..4896
+                     /gene="ix"
+                     /gene_synonym="CG13201; Dmel\CG13201; IX; Med29; MED29"
+                     /locus_tag="Dmel_CG13201"
+                     /product="intersex"
+                     /label="ix mRNA"
+                     /note="ix mRNA"
+                     /note="ix-RA; Dmel\ix-RA; CG13201-RA; Dmel\CG13201-RA"
+                     /note="/transcript_id=NM_136833.2"
+                     /db_xref="FLYBASE:FBtr0088154"
+                     /db_xref="GeneID:45881"
+                     /db_xref="FLYBASE:FBgn0001276"
+     gene            4477..4896
+                     /map="47F5-47F5"
+                     /gene="ix"
+                     /gene_synonym="CG13201; Dmel\CG13201; IX; Med29; MED29"
+                     /locus_tag="Dmel_CG13201"
+                     /label="ix"
+                     /note="ix"
+                     /note="intersex"
+                     /db_xref="FLYBASE:FBgn0001276"
+                     /db_xref="GeneID:45881"
+     CDS             4477..4814
+                     /codon_start=1
+                     /gene="ix"
+                     /gene_synonym="CG13201; Dmel\CG13201; IX; Med29; MED29"
+                     /locus_tag="Dmel_CG13201"
+                     /product="intersex"
+                     /label="ix"
+                     /note="ix"
+                     /note="CG13201 gene product from transcript CG13201-RA; 
+                     CG13201-PA; ix-PA; mediator complex subunit 29"
+                     /db_xref="FLYBASE:FBpp0087251"
+                     /db_xref="GeneID:45881"
+                     /db_xref="FLYBASE:FBgn0001276"
+                     /protein_id="NP_610677.1"
+                     /translation="LQQNNLADNLKRDTGAHHVPRFDKHLEDFYACCDQIEIHLKTAMQ
+                     CLQQQNSSNHYLPGPVTPMRMETFMPDNAGPISYPTYLNTVRVHIQSAKDIHDTLISAA
+                     QNISQAD"
+     misc_feature    complement(4477..4493)
+                     /label="gRNA4"
+                     /note="gRNA4"
+     gene            5157..5476
+                     /map="47F5-47F5"
+                     /gene="CG12384"
+                     /gene_synonym="BcDNA:GH16986; BcDNA:RH17411; Dmel\CG12384"
+                     /locus_tag="Dmel_CG12384"
+                     /label="CG12384"
+                     /note="CG12384"
+                     /db_xref="FLYBASE:FBgn0033624"
+                     /db_xref="GeneID:36224"
+     mRNA            join(5157..5245,5312..5375)
+                     /gene="CG12384"
+                     /gene_synonym="BcDNA:GH16986; BcDNA:RH17411; Dmel\CG12384"
+                     /locus_tag="Dmel_CG12384"
+                     /product="uncharacterized protein"
+                     /label="CG12384 mRNA"
+                     /note="CG12384 mRNA"
+                     /note="CG12384-RA; Dmel\CG12384-RA"
+                     /note="/transcript_id=NM_136832.4"
+                     /db_xref="FLYBASE:FBtr0088155"
+                     /db_xref="GeneID:36224"
+                     /db_xref="FLYBASE:FBgn0033624"
+     CDS             5330..5375
+                     /codon_start=1
+                     /gene="CG12384"
+                     /gene_synonym="BcDNA:GH16986; BcDNA:RH17411; Dmel\CG12384"
+                     /locus_tag="Dmel_CG12384"
+                     /product="uncharacterized protein"
+                     /label="CG12384"
+                     /note="CG12384"
+                     /note="CG12384 gene product from transcript CG12384-RA; 
+                     CG12384-PA"
+                     /db_xref="GI:24652718"
+                     /db_xref="FLYBASE:FBpp0087252"
+                     /db_xref="GeneID:36224"
+                     /db_xref="FLYBASE:FBgn0033624"
+                     /protein_id="NP_610676.2"
+                     /translation="MADEQPNLVAGHPPA"
+     misc_feature    5477..5520
+                     /note="right homology arm-primer"
+     misc_feature    5521..5526
+                     /note="introduced site"
+     primer_bind     complement(5582..5601)
+                     /locus_tag="pBB_S_R"
+                     /label="pBB_S_R"
+                     /note="pBB_S_R"
+     rep_origin      5702..6367
+                     /locus_tag="Origin"
+                     /label="Origin"
+ORIGIN
+        1 ttaccaatgc ttaatcagtg aggcacctat ctcagcgatc tgtctatttc gttcatccat
+       61 agttgcctga ctccccgtcg tgtagataac tacgatacgg gagggcttac catctggccc
+      121 cagcgctgcg atgataccgc gagaaccacg ctcaccggct ccggatttat cagcaataaa
+      181 ccagccagcc ggaagggccg agcgcagaag tggtcctgca actttatccg cctccatcca
+      241 gtctattaat tgttgccggg aagctagagt aagtagttcg ccagttaata gtttgcgcaa
+      301 cgttgttgcc atcgctacag gcatcgtggt gtcacgctcg tcgtttggta tggcttcatt
+      361 cagctccggt tcccaacgat caaggcgagt tacatgatcc cccatgttgt gcaaaaaagc
+      421 ggttagctcc ttcggtcctc cgatcgttgt cagaagtaag ttggccgcag tgttatcact
+      481 catggttatg gcagcactgc ataattctct tactgtcatg ccatccgtaa gatgcttttc
+      541 tgtgactggt gagtactcaa ccaagtcatt ctgagaatag tgtatgcggc gaccgagttg
+      601 ctcttgcccg gcgtcaatac gggataatac cgcgccacat agcagaactt taaaagtgct
+      661 catcattgga aaacgttctt cggggcgaaa actctcaagg atcttaccgc tgttgagatc
+      721 cagttcgatg taacccactc gtgcacccaa ctgatcttca gcatctttta ctttcaccag
+      781 cgtttctggg tgagcaaaaa caggaaggca aaatgccgca aaaaagggaa taagggcgac
+      841 acggaaatgt tgaatactca tattcttcct ttttcaatat tattgaagca tttatcaggg
+      901 ttattgtctc atgagcggat acatatttga atgtatttag aaaaataaac aaataggggt
+      961 cagtgttaca accaattaac caattctgaa cattatcgcg agcccacgtg accggtgcgg
+     1021 gaaagggtag gaacatagga acatgggtta gcttttccga cccaagcggc acttttaggt
+     1081 tatgattccg gtgcatctcc tgcagtcaca atcctccaat ggtccggcaa agatagccac
+     1141 tcacctagtc atgttgtctg tacgatttct gttgatttag caacgcgctt tgcgccgaaa
+     1201 attgtaatag gaaaatgtgt tttaagcgcc tcagctgttc ctgattgttc gggttgcagg
+     1261 tcgcaagtta tcgttatcgg ttattgacgc cggccagaat agctatttta tagcaagata
+     1321 aatttgattt tcatatctaa gactactaac taaacttttt tgctcacact attttaagca
+     1381 ataaacaaaa actaataatt aattaaaaca gaactaaaaa cactcaatgc taaatgaaac
+     1441 attacacatc gttttttatt tgggatacgc atacactaaa tgagatgaca gctctttccg
+     1501 gtcggttgac attagctatc acttgtttga cagttagaat atgaacgaac actttcaata
+     1561 atggccaact tttaatttca aaacatattg ttacctctac tttttcgtag tgagttatgc
+     1621 tatagataca cttttatgta tgtaacaata tgaaatattg ggtagtcctt gtttctaaac
+     1681 tagttttttt taaagaattt tttaaattta cagtacaact tttgtatttt ttagcaactc
+     1741 ttagttatat ttatattata ttcgatattc gccatgggta cgcgaacgca aatgtgagaa
+     1801 atctcctaac gggtttttct tcacaaaaag aaaacaattc gcggctgttc aatatttttc
+     1861 tcccccaata tccatcgatt tcgagtgcca aatgaatccc aacatgaaca tgatgcccat
+     1921 gtctgggcca caaatgatgc aggtaatgca atcctcgcca tcgggacccc caggaccagt
+     1981 gcagcatcaa cagcagcagc ctccacagcc actgcagcag cagcagcagg ccgaaagcta
+     2041 aggccgcgga tctaattcaa ttagagacta attcaattag agctaattca attaggatcc
+     2101 aagcttatcg atttcgaacc ctcgaccgcc ggagtataaa tagaggcgct tcgtctacgg
+     2161 agcgacaatt caattcaaac aagcaaagtg aacacgtcgc taagcgaaag ctaagcaaat
+     2221 aaacaagcgc agctgaacaa gctaaacaat cggctcgaag ccggtcgcca ccatggcctc
+     2281 ctccgaggac gtcatcaagg agttcatgcg cttcaaggtg cgcatggagg gctccgtgaa
+     2341 cggccacgag ttcgagatcg agggcgaggg cgagggccgc ccctacgagg gcacccagac
+     2401 cgccaagctg aaggtgacca agggcggccc cctgcccttc gcctgggaca tcctgtcccc
+     2461 ccagttccag tacggctcca aggtgtacgt gaagcacccc gccgacatcc ccgactacaa
+     2521 gaagctgtcc ttccccgagg gcttcaagtg ggagcgcgtg atgaacttcg aggacggcgg
+     2581 cgtggtgacc gtgacccagg actcctccct ccaggacggc tccttcatct acaaggtgaa
+     2641 gttcatcggc gtgaacttcc cctccgacgg ccccgtaatg cagaagaaga ctatgggctg
+     2701 ggaggcgtcc accgagcgcc tgtacccccg cgacggcgtg ctgaagggcg agatccacaa
+     2761 ggccctgaag ctgaaggacg gcggccacta cctggtggag ttcaagtcca tctacatggc
+     2821 caagaagccc gtgcagctgc ccggctacta ctacgtggac tccaagctgg acatcacctc
+     2881 ccacaacgag gactacacca tcgtggagca gtacgagcgc gccgagggcc gccaccacct
+     2941 gttcctgtag gggccgcgac tctagatcat aatcagccat accacatttg tagaggtttt
+     3001 acttgcttta aaaaacctcc cacacctccc cctgaacctg aaacataaaa tgaatgcaat
+     3061 tgttgttgtt aacttgttta ttgcagctta taatggttac aaataaagca atagcatcac
+     3121 aaatttcaca aataaagcat ttttttcact gcattctagt tgtggtttgt ccaaactcat
+     3181 caatgtatct taacgcgttt ttttgctcac ctgtgattgc tcctactcaa atacaaaaac
+     3241 atcaaatttt ctgtcaataa agcatattta tttatattta ttttacagga aagaattcct
+     3301 tttaaagtgt attttaacct ataatgaaaa acgattaaaa aaaatacata aaataattcg
+     3361 aaaatttttg aatagcccag gttgataaaa attcatttca tacgttttat aacttatgcc
+     3421 cctaagtatt ttttgaccat agtgtttcaa ttctacatta attttacaga gtagaatgaa
+     3481 acgccaccta ctcagccaag aggcgaaaag gttagctcgc caagcagaga gggcgccagt
+     3541 gctcactact ttttataatt ctcaacttct ttttccagac tcagttcgta tatatagacc
+     3601 tattttcaat ttaacgtcgc agcagcaggc cgaaaaatgt tttagagcta gaaatagcaa
+     3661 gttaaaataa ggctagtccg ttatcaactt gaaaaagtgg caccgagtcg gtgctaacaa
+     3721 agcaccagtg gtctagtggt agaatagtac cctgccacgg tacagacccg ggttcgattc
+     3781 ccggctggtg catccagggt gaagagtttg ctgttttaga gctagaaata gcaagttaaa
+     3841 ataaggctag tccgttatca acttgaaaaa gtggcaccga gtcggtgcta acaaagcacc
+     3901 agtggtctag tggtagaata gtaccctgcc acggtacaga cccgggttcg attcccggct
+     3961 ggtgcaagtc catgttcctc accatcgttt tagagctaga aatagcaagt taaaataagg
+     4021 ctagtccgtt atcaacttga aaaagtggca ccgagtcggt gctaacaaag caccagtggt
+     4081 ctagtggtag aatagtaccc tgccacggta cagacccggg ttcgattccc ggctggtgca
+     4141 attgttttgc tgcagcgcga gttttagagc tagaaatagc aagttaaaat aaggctagtc
+     4201 cgttatcaac ttgaaaaagt ggcaccgagt cggtgctttt ttgcctacct ggagcctgag
+     4261 agttgttcaa taaaataaaa atgtttcgtt tttttgcttt cgccagtatt tattattttt
+     4321 catcaatatg tattcaattt ggtatgtatt tagtaattgt aatatataga caatggtttt
+     4381 ccgttgacgt acatacatct gacgtgtgtt tatttagaca taatagttat gttttcacat
+     4441 ctttttaatg ttcgcttaat gcgtatgcat aggcctcgct gcagcaaaac aatctcgcgg
+     4501 acaacttaaa gagggacacg ggtgcccacc atgttccgcg gttcgacaag cacttggaag
+     4561 acttttacgc ctgttgcgac cagatcgaga tccacttgaa gacggcgatg cagtgcctcc
+     4621 agcagcagaa ctcctccaat cactatctcc ccggtccggt gactcccatg cgcatggaga
+     4681 cctttatgcc ggacaacgcc ggccccattt cgtatcccac ttacttgaac acggtccgcg
+     4741 ttcacataca gtccgccaag gatatacacg acactctgat tagtgccgcg cagaacattt
+     4801 cgcaggctga ttgatagttg tagtagcatt aggttttatt atttcacacg catgcactta
+     4861 agttaagtaa ataaatattc ttagatataa gataacaatg atctttgttt gggaaagtcg
+     4921 aaatggtgtt accatactca acgtttttac aggcggaaga gtaaaaggga aaataataaa
+     4981 ataaatatag cttgtgggca ttagtttgca tacagaaaac atgttacaca aaaacatcga
+     5041 gcaataaaat aaattctagt tgtatttcgt gtaccactat ttgtgaaaat gtttgcagtg
+     5101 agaacgcgtt gcagcagtcg atgagtaact gcgcatccag tgagaaaagg ctaaaaattc
+     5161 gatagacaac agtcggacgt gtcacaatta gaacgcaaaa gcaaaacaca gcggtgccgc
+     5221 gcatttattt acaactagaa aagcggtaag gtctcatttt gttgttaact gtgcacaagc
+     5281 cgttaattta ttcaacttct ccgaccctca gcttactaaa ccagaacaaa tggcagatga
+     5341 acaaccaaat cttgtggccg gacacccacc tgcatgtaag tgcacttgca ttggtgtgtg
+     5401 tgtgtcgatg cagacgagtt ttcgattttt ggcagcaatt gaatcttata agaacaaact
+     5461 gccttgttgg caatcaataa tgcacccaat caaatcaatt gccagaatat ctgcgccctt
+     5521 gctagcgtca ggggccttct gcttagtttg atgcctggca gttccctact ctcgccttcc
+     5581 gcttcctcgc tcactgactc gctgcgctcg gtcgttcggc tgcggcgagc ggtatcagct
+     5641 cactcaaagg cggtaatacg gttatccaca gaatcagggg ataacgcagg aaagaacatg
+     5701 tgagcaaaag gccagcaaaa ggccaggaac cgtaaaaagg ccgcgttgct ggcgtttttc
+     5761 cataggctcc gcccccctga cgagcatcac aaaaatcgac gctcaagtca gaggtggcga
+     5821 aacccgacag gactataaag ataccaggcg tttccccctg gaagctccct cgtgcgctct
+     5881 cctgttccga ccctgccgct taccggatac ctgtccgcct ttctcccttc gggaagcgtg
+     5941 gcgctttctc atagctcacg ctgtaggtat ctcagttcgg tgtaggtcgt tcgctccaag
+     6001 ctgggctgtg tgcacgaacc ccccgttcag cccgaccgct gcgccttatc cggtaactat
+     6061 cgtcttgagt ccaacccggt aagacacgac ttatcgccac tggcagcagc cactggtaac
+     6121 aggattagca gagcgaggta tgtaggcggt gctacagagt tcttgaagtg gtgggctaac
+     6181 tacggctaca ctagaagaac agtatttggt atctgcgctc tgctgaagcc agttaccttc
+     6241 ggaaaaagag ttggtagctc ttgatccggc aaacaaacca ccgctggtag cggtggtttt
+     6301 tttgtttgca agcagcagat tacgcgcaga aaaaaaggat ctcaagaaga tcctttgatc
+     6361 ttttctacgg ggtctgacgc tcagtggaac gacgcgcgcg taactcacgt taagggattt
+     6421 tggtcatgag cttgcgccgt cccgtcaagt cagcgtaatg ctctgctt
+//

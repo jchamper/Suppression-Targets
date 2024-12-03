@@ -1,0 +1,351 @@
+LOCUS       Exported                6488 bp ds-DNA    circular SYN 10-6月-2023
+DEFINITION  .
+ACCESSION   .
+VERSION     .
+KEYWORDS    HSDndlU4
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+REFERENCE   1  (bases 1 to 6488)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported 2024年12月3日 from SnapGene 2.3.2
+            http://www.snapgene.com
+COMMENT     
+FEATURES             Location/Qualifiers
+     source          1..6488
+                     /organism="synthetic DNA construct"
+                     /mol_type="other DNA"
+     source          1017..1976
+                     /organism="Drosophila melanogaster"
+                     /chromosome="3L"
+                     /mol_type="genomic DNA"
+                     /note="/genotype=y[1]; Gr22b[1] Gr22d[1] cn[1] 
+                     CG33964[R4.2] bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] 
+                     Rh6[1]"
+                     /db_xref="taxon:7227"
+     source          4512..5511
+                     /organism="Drosophila melanogaster"
+                     /chromosome="3L"
+                     /mol_type="genomic DNA"
+                     /note="/genotype=y[1]; Gr22b[1] Gr22d[1] cn[1] 
+                     CG33964[R4.2] bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] 
+                     Rh6[1]"
+                     /db_xref="taxon:7227"
+     source          5512..5540
+                     /organism="Drosophila melanogaster"
+                     /chromosome="3L"
+                     /mol_type="genomic DNA"
+                     /note="/genotype=y[1]; Gr22b[1] Gr22d[1] cn[1] 
+                     CG33964[R4.2] bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] 
+                     Rh6[1]"
+                     /db_xref="taxon:7227"
+     CDS             complement(1..861)
+                     /locus_tag="AmpR"
+                     /label="AmpR"
+                     /note="AmpR"
+     primer_bind     898..918
+                     /locus_tag="Primer IHD_S_F"
+                     /label="Primer IHD_S_F"
+                     /note="Primer IHD_S_F"
+     promoter        complement(903..931)
+                     /locus_tag="Amp Promoter"
+                     /label="Amp Promoter"
+                     /note="Amp Promoter"
+     misc_feature    1011..1016
+                     /note="introduced cut site"
+     mRNA            join(1017..1526,1588..1976)
+                     /gene="ndl"
+                     /gene_synonym="CG10129; Dmel\CG10129; mat(3)2; mel(3)5; 
+                     Ndl; nud; SP89"
+                     /locus_tag="Dmel_CG10129"
+                     /product="nudel"
+                     /label="ndl mRNA"
+                     /note="ndl mRNA"
+                     /note="ndl-RA; Dmel\ndl-RA; CG10129-RA; Dmel\CG10129-RA"
+                     /note="/transcript_id=NM_079223.2"
+                     /db_xref="FLYBASE:FBtr0076984"
+                     /db_xref="GeneID:38738"
+                     /db_xref="FLYBASE:FBgn0002926"
+     CDS             join(1017..1526,1588..1976)
+                     /codon_start=1
+                     /gene="ndl"
+                     /gene_synonym="CG10129; Dmel\CG10129; mat(3)2; mel(3)5; 
+                     Ndl; nud; SP89"
+                     /locus_tag="Dmel_CG10129"
+                     /product="nudel"
+                     /EC_number="3.4.21.-"
+                     /label="ndl"
+                     /note="ndl"
+                     /note="CG10129 gene product from transcript CG10129-RA; 
+                     CG10129-PA; ndl-PA"
+                     /db_xref="FLYBASE:FBpp0076693"
+                     /db_xref="GeneID:38738"
+                     /db_xref="FLYBASE:FBgn0002926"
+                     /protein_id="NP_523947.2"
+                     /translation="GQSAFSNANFKMRHANQTNTANQQGQIIYASYAGLPQQPIQERSR
+                     CPEPDQFSCFGQQECIPAARWCDNVVDCSDGSDESACTCADRVDEERLCDGYEDCPMGE
+                     DELGCFGCESLAYSCYENPQDFAKRNRSTISMCYSRLERCDGFMNCLNGRDEEQCSMLV
+                     TDVADHMSHGASASEGYLYHNYRGDWHPVCNNGEKWAALACQMDENSRMDHSASLNVSF
+                     QTLTLPGPFIEPSLHAGVHFAQACHGRNSHDSLVDHVAYVKCPPMQCGLPSKSSMLEHS
+                     KRVRRAVSDSKEIVGDGR"
+     misc_feature    1017..1976
+                     /label="left homology arm"
+                     /note="left homology arm"
+     misc_feature    complement(1971..1976)
+                     /label="gRNA1"
+                     /note="gRNA1"
+     CDS             1975..1976
+                     /codon_start=1
+                     /label="start of peptidase domain"
+                     /note="start of peptidase domain"
+                     /translation=""
+     promoter        1985..2190
+                     /locus_tag="3xP3-hsp70 Promoter"
+                     /label="3xP3-hsp70 Promoter"
+                     /note="3xP3-hsp70 Promoter"
+     primer_bind     2044..2064
+                     /locus_tag="EGFPaLeft_S_F"
+                     /label="EGFPaLeft_S_F"
+                     /note="EGFPaLeft_S_F"
+     primer_bind     complement(2141..2165)
+                     /locus_tag="EGFPaLeft_S_R"
+                     /label="EGFPaLeft_S_R"
+                     /note="EGFPaLeft_S_R"
+     CDS             2210..2887
+                     /locus_tag="dsRed"
+                     /label="dsRed"
+                     /note="dsRed"
+     primer_bind     2678..2698
+                     /locus_tag="Primer dsRed_S_F"
+                     /label="Primer dsRed_S_F"
+                     /note="Primer dsRed_S_F"
+     primer_bind     complement(2801..2821)
+                     /locus_tag="Primer dsRed_S_R"
+                     /label="Primer dsRed_S_R"
+                     /note="Primer dsRed_S_R"
+     terminator      2888..3129
+                     /locus_tag="SV40 polyA"
+                     /label="SV40 polyA"
+                     /note="SV40 polyA terminator"
+     promoter        3136..3555
+                     /locus_tag="U6:3 Promoter"
+                     /label="U6:3 Promoter"
+                     /note="U6:3 Promoter"
+     primer_bind     3140..3160
+                     /locus_tag="Yellow_gRNA1_S_F"
+                     /label="Yellow_gRNA1_S_F"
+                     /note="Yellow_gRNA1_S_F"
+     tRNA            3556..3653
+                     /locus_tag="Start and tRNA"
+                     /label="Start and tRNA"
+                     /note="Start and tRNA"
+     misc_feature    3654..3673
+                     /note="ndl gRNA1"
+     misc_RNA        3674..3750
+                     /locus_tag="gRNA Scaffold"
+                     /label="gRNA Scaffold"
+                     /note="gRNA Scaffold"
+     tRNA            3751..3827
+                     /locus_tag="tRNA"
+                     /label="tRNA"
+     misc_feature    3828..3847
+                     /note="ndl gRNA2"
+     misc_RNA        3848..3924
+                     /locus_tag="gRNA Scaffold(2)"
+                     /label="gRNA Scaffold(2)"
+                     /note="gRNA Scaffold"
+     tRNA            3925..4001
+                     /locus_tag="tRNA(1)"
+                     /label="tRNA(1)"
+     misc_feature    4002..4021
+                     /note="ndl gRNA3"
+     misc_RNA        4022..4098
+                     /locus_tag="gRNA Scaffold(3)"
+                     /label="gRNA Scaffold(3)"
+                     /note="gRNA Scaffold"
+     tRNA            4099..4175
+                     /locus_tag="tRNA(2)"
+                     /label="tRNA(2)"
+     misc_feature    4176..4195
+                     /note="ndl gRNA4"
+     misc_RNA        4196..4277
+                     /locus_tag="gRNA Scaffold(1)"
+                     /label="gRNA Scaffold(1)"
+                     /note="gRNA Scaffold"
+     misc_feature    4278..4505
+                     /locus_tag="Homology Region"
+                     /label="Homology Region"
+                     /note="Homology Region"
+     primer_bind     complement(4402..4425)
+                     /locus_tag="Primer CFD5_S_R"
+                     /label="Primer CFD5_S_R"
+                     /note="Primer CFD5_S_R"
+     primer_bind     4431..4454
+                     /locus_tag="U6term_S_F"
+                     /label="U6term_S_F"
+                     /note="U6term_S_F"
+     misc_feature    4512..5540
+                     /label="right homology arm"
+                     /note="right homology arm"
+     misc_feature    4512..4517
+                     /label="gRNA4"
+                     /note="gRNA4"
+     CDS             join(4563..4896,4958..5511)
+                     /codon_start=1
+                     /gene="ndl"
+                     /gene_synonym="CG10129; Dmel\CG10129; mat(3)2; mel(3)5; 
+                     Ndl; nud; SP89"
+                     /locus_tag="Dmel_CG10129"
+                     /product="nudel"
+                     /EC_number="3.4.21.-"
+                     /label="ndl"
+                     /note="ndl"
+                     /note="CG10129 gene product from transcript CG10129-RA; 
+                     CG10129-PA; ndl-PA"
+                     /db_xref="FLYBASE:FBpp0076693"
+                     /db_xref="GeneID:38738"
+                     /db_xref="FLYBASE:FBgn0002926"
+                     /protein_id="NP_523947.2"
+                     /translation="IISAAHCVINYGKYFYEVRAGLLRRSSYSPATQIQPVSHVVVHQA
+                     YERRSMRNDLSLLRLLNPLQFNRWVKPICLPDKGRTTVGDDWIWGPVEHTLCTVVGWGA
+                     IREKGPSSDPMRQVIVPIRKKCTDPEDQASEDICAGDPDGGRDACQGDSGGPLFCRSVS
+                     NPDEFYLAGVVSHGNGCARPQEFGVYTRVTLYLDWLEMATTPRLLPKLQPLQLCPGFIC
+                     VWGGKRCIAKRQRCDRNVDCLGGEDEVGCTYNFLPDMVGGVRQNISTTTESDYHPVKES
+                     EEKSKMREVIPIDDE"
+     CDS             5512..5540
+                     /codon_start=1
+                     /gene="ndl"
+                     /gene_synonym="CG10129; Dmel\CG10129; mat(3)2; mel(3)5; 
+                     Ndl; nud; SP89"
+                     /locus_tag="Dmel_CG10129"
+                     /product="nudel"
+                     /EC_number="3.4.21.-"
+                     /label="ndl"
+                     /note="ndl"
+                     /note="CG10129 gene product from transcript CG10129-RA; 
+                     CG10129-PA; ndl-PA"
+                     /db_xref="FLYBASE:FBpp0076693"
+                     /db_xref="GeneID:38738"
+                     /db_xref="FLYBASE:FBgn0002926"
+                     /protein_id="NP_523947.2"
+                     /translation="DLKAEQDEE"
+     misc_feature    5541..5546
+                     /note="introduced site"
+     primer_bind     complement(5602..5621)
+                     /locus_tag="pBB_S_R"
+                     /label="pBB_S_R"
+                     /note="pBB_S_R"
+     rep_origin      5722..6387
+                     /locus_tag="Origin"
+                     /label="Origin"
+ORIGIN
+        1 ttaccaatgc ttaatcagtg aggcacctat ctcagcgatc tgtctatttc gttcatccat
+       61 agttgcctga ctccccgtcg tgtagataac tacgatacgg gagggcttac catctggccc
+      121 cagcgctgcg atgataccgc gagaaccacg ctcaccggct ccggatttat cagcaataaa
+      181 ccagccagcc ggaagggccg agcgcagaag tggtcctgca actttatccg cctccatcca
+      241 gtctattaat tgttgccggg aagctagagt aagtagttcg ccagttaata gtttgcgcaa
+      301 cgttgttgcc atcgctacag gcatcgtggt gtcacgctcg tcgtttggta tggcttcatt
+      361 cagctccggt tcccaacgat caaggcgagt tacatgatcc cccatgttgt gcaaaaaagc
+      421 ggttagctcc ttcggtcctc cgatcgttgt cagaagtaag ttggccgcag tgttatcact
+      481 catggttatg gcagcactgc ataattctct tactgtcatg ccatccgtaa gatgcttttc
+      541 tgtgactggt gagtactcaa ccaagtcatt ctgagaatag tgtatgcggc gaccgagttg
+      601 ctcttgcccg gcgtcaatac gggataatac cgcgccacat agcagaactt taaaagtgct
+      661 catcattgga aaacgttctt cggggcgaaa actctcaagg atcttaccgc tgttgagatc
+      721 cagttcgatg taacccactc gtgcacccaa ctgatcttca gcatctttta ctttcaccag
+      781 cgtttctggg tgagcaaaaa caggaaggca aaatgccgca aaaaagggaa taagggcgac
+      841 acggaaatgt tgaatactca tattcttcct ttttcaatat tattgaagca tttatcaggg
+      901 ttattgtctc atgagcggat acatatttga atgtatttag aaaaataaac aaataggggt
+      961 cagtgttaca accaattaac caattctgaa cattatcgcg agcccacgtg accggtggac
+     1021 agtcggcatt ctccaatgcc aactttaaga tgcgtcatgc caatcagaca aacaccgcca
+     1081 atcaacaggg acaaatcatc tatgccagct atgcaggatt gccacaacaa cccatccagg
+     1141 agcgatccag atgcccagag cccgatcagt tttcctgctt cggtcaacag gagtgcattc
+     1201 ctgccgcgag atggtgtgat aatgtggtgg attgttcgga tggcagcgat gagtccgcct
+     1261 gcacctgtgc agatcgcgtg gatgaagagc gtctgtgcga tggttacgaa gattgcccta
+     1321 tgggcgagga cgagctggga tgctttggct gcgaatcgtt ggcttactcc tgctatgaaa
+     1381 atccacagga ctttgccaaa cgcaatcggt ctacgatttc tatgtgctac agtcgactgg
+     1441 agcgttgcga cggattcatg aactgtttga atggacgcga tgaggagcag tgcagcatgt
+     1501 tggtcaccga tgtggcggat catatggtgg ttaatgcatt agcttagatg ggtttttttt
+     1561 tctaaaacgc tatcaaatct ttttcagtcc cacggtgcat ctgcttctga aggctacctc
+     1621 taccacaatt atcgcgggga ttggcatcct gtgtgcaaca atggtgaaaa gtgggcggct
+     1681 ttagcctgtc agatggatga aaacagtcgg atggatcact cagcttcgtt gaatgtcagt
+     1741 ttccaaaccc taactttacc tggtcctttt attgagccat ccctgcatgc tggagtccac
+     1801 tttgctcagg cgtgccatgg acgcaatagc cacgattccc tagtagatca tgtggcctat
+     1861 gtcaagtgcc ccccgatgca gtgcggcctg ccctctaaat catctatgct ggaacactcg
+     1921 aagagagtaa gaagagcagt atcggattca aaggaaatcg ttggcgatgg ccgaatgcgg
+     1981 ccgcggatct aattcaatta gagactaatt caattagagc taattcaatt aggatccaag
+     2041 cttatcgatt tcgaaccctc gaccgccgga gtataaatag aggcgcttcg tctacggagc
+     2101 gacaattcaa ttcaaacaag caaagtgaac acgtcgctaa gcgaaagcta agcaaataaa
+     2161 caagcgcagc tgaacaagct aaacaatcgg ctcgaagccg gtcgccacca tggcctcctc
+     2221 cgaggacgtc atcaaggagt tcatgcgctt caaggtgcgc atggagggct ccgtgaacgg
+     2281 ccacgagttc gagatcgagg gcgagggcga gggccgcccc tacgagggca cccagaccgc
+     2341 caagctgaag gtgaccaagg gcggccccct gcccttcgcc tgggacatcc tgtcccccca
+     2401 gttccagtac ggctccaagg tgtacgtgaa gcaccccgcc gacatccccg actacaagaa
+     2461 gctgtccttc cccgagggct tcaagtggga gcgcgtgatg aacttcgagg acggcggcgt
+     2521 ggtgaccgtg acccaggact cctccctcca ggacggctcc ttcatctaca aggtgaagtt
+     2581 catcggcgtg aacttcccct ccgacggccc cgtaatgcag aagaagacta tgggctggga
+     2641 ggcgtccacc gagcgcctgt acccccgcga cggcgtgctg aagggcgaga tccacaaggc
+     2701 cctgaagctg aaggacggcg gccactacct ggtggagttc aagtccatct acatggccaa
+     2761 gaagcccgtg cagctgcccg gctactacta cgtggactcc aagctggaca tcacctccca
+     2821 caacgaggac tacaccatcg tggagcagta cgagcgcgcc gagggccgcc accacctgtt
+     2881 cctgtagggg ccgcgactct agatcataat cagccatacc acatttgtag aggttttact
+     2941 tgctttaaaa aacctcccac acctccccct gaacctgaaa cataaaatga atgcaattgt
+     3001 tgttgttaac ttgtttattg cagcttataa tggttacaaa taaagcaata gcatcacaaa
+     3061 tttcacaaat aaagcatttt tttcactgca ttctagttgt ggtttgtcca aactcatcaa
+     3121 tgtatcttaa cgcgtttttt tgctcacctg tgattgctcc tactcaaata caaaaacatc
+     3181 aaattttctg tcaataaagc atatttattt atatttattt tacaggaaag aattcctttt
+     3241 aaagtgtatt ttaacctata atgaaaaacg attaaaaaaa atacataaaa taattcgaaa
+     3301 atttttgaat agcccaggtt gataaaaatt catttcatac gttttataac ttatgcccct
+     3361 aagtattttt tgaccatagt gtttcaattc tacattaatt ttacagagta gaatgaaacg
+     3421 ccacctactc agccaagagg cgaaaaggtt agctcgccaa gcagagaggg cgccagtgct
+     3481 cactactttt tataattctc aacttctttt tccagactca gttcgtatat atagacctat
+     3541 tttcaattta acgtcggggc tttgagtgtg tgtagacatc aagcatcggt ggttcagtgg
+     3601 tagaatgctc gcctgccacg cgggcggccc gggttcgatt cccggccgat gcatataact
+     3661 tccaccaaca attgttttag agctagaaat agcaagttaa aataaggcta gtccgttatc
+     3721 aacttgaaaa agtggcaccg agtcggtgct aacaaagcac cagtggtcta gtggtagaat
+     3781 agtaccctgc cacggtacag acccgggttc gattcccggc tggtgcaact ccaatggcca
+     3841 tttgtgggtt ttagagctag aaatagcaag ttaaaataag gctagtccgt tatcaacttg
+     3901 aaaaagtggc accgagtcgg tgctaacaaa gcaccagtgg tctagtggta gaatagtacc
+     3961 ctgccacggt acagacccgg gttcgattcc cggctggtgc aagaaatgga aagttccatt
+     4021 ggttttagag ctagaaatag caagttaaaa taaggctagt ccgttatcaa cttgaaaaag
+     4081 tggcaccgag tcggtgctaa caaagcacca gtggtctagt ggtagaatag taccctgcca
+     4141 cggtacagac ccgggttcga ttcccggctg gtgcattctg atcgttgggt gagttgtttt
+     4201 agagctagaa atagcaagtt aaaataaggc tagtccgtta tcaacttgaa aaagtggcac
+     4261 cgagtcggtg cttttttgcc tacctggagc ctgagagttg ttcaataaaa taaaaatgtt
+     4321 tcgttttttt gctttcgcca gtatttatta tttttcatca atatgtattc aatttggtat
+     4381 gtatttagta attgtaatat atagacaatg gttttccgtt gacgtacata catctgacgt
+     4441 gtgtttattt agacataata gttatgtttt cacatctttt taatgttcgc ttaatgcgta
+     4501 tgcataggcc tgttaggagt ttatacttca attatatgta ctgataagtt tttttttaat
+     4561 agatcatcag cgctgcccac tgtgtcataa actatggaaa gtacttctat gaagttcgtg
+     4621 ctggtcttct gcgtcgctct agctactcac ccgccactca gatccagccc gtctcccatg
+     4681 tggttgtcca ccaagcctac gaaagaagaa gtatgcgcaa cgatctctct ctgcttcgcc
+     4741 tgctgaatcc gctgcagttc aatcgatggg tgaaacctat ttgcttaccc gacaagggaa
+     4801 gaactacagt aggcgacgat tggatctggg gccccgtgga acacacccta tgcacggtgg
+     4861 ttggttgggg agccatcaga gagaagggtc caagcagtaa gtacttaagc catatacaaa
+     4921 taaactactt atacatatat taaccaaatt tttggaggtg atcccatgcg ccaggttatc
+     4981 gtaccaattc gtaagaaatg cactgatcca gaagatcagg cttcagaaga catttgtgct
+     5041 ggcgatccag atggaggtcg cgatgcctgc cagggtgatt cgggtgggcc tctcttctgt
+     5101 cgcagcgtct ctaacccaga tgagttctat ctggccggag tagtaagcca tggcaatggc
+     5161 tgtgctcgtc ctcaggagtt tggagtctac acgagggtca ctctctacct ggactggttg
+     5221 gaaatggcta ctactccacg actgttgccc aaacttcagc cgcttcaact gtgtccagga
+     5281 tttatctgcg tgtggggcgg taagcggtgt attgctaaac gacagcgctg cgatcgcaac
+     5341 gttgattgtt tgggtggcga ggatgaggtg ggatgcacct acaacttttt accagatatg
+     5401 gtgggtggcg ttcgacagaa tattagcacc acaactgaga gtgactatca tccagtgaag
+     5461 gagagcgagg aaaagagtaa aatgcgggag gttattccca ttgacgatga agatttaaag
+     5521 gctgaacaag acgaggaaga gctagcgtca ggggccttct gcttagtttg atgcctggca
+     5581 gttccctact ctcgccttcc gcttcctcgc tcactgactc gctgcgctcg gtcgttcggc
+     5641 tgcggcgagc ggtatcagct cactcaaagg cggtaatacg gttatccaca gaatcagggg
+     5701 ataacgcagg aaagaacatg tgagcaaaag gccagcaaaa ggccaggaac cgtaaaaagg
+     5761 ccgcgttgct ggcgtttttc cataggctcc gcccccctga cgagcatcac aaaaatcgac
+     5821 gctcaagtca gaggtggcga aacccgacag gactataaag ataccaggcg tttccccctg
+     5881 gaagctccct cgtgcgctct cctgttccga ccctgccgct taccggatac ctgtccgcct
+     5941 ttctcccttc gggaagcgtg gcgctttctc atagctcacg ctgtaggtat ctcagttcgg
+     6001 tgtaggtcgt tcgctccaag ctgggctgtg tgcacgaacc ccccgttcag cccgaccgct
+     6061 gcgccttatc cggtaactat cgtcttgagt ccaacccggt aagacacgac ttatcgccac
+     6121 tggcagcagc cactggtaac aggattagca gagcgaggta tgtaggcggt gctacagagt
+     6181 tcttgaagtg gtgggctaac tacggctaca ctagaagaac agtatttggt atctgcgctc
+     6241 tgctgaagcc agttaccttc ggaaaaagag ttggtagctc ttgatccggc aaacaaacca
+     6301 ccgctggtag cggtggtttt tttgtttgca agcagcagat tacgcgcaga aaaaaaggat
+     6361 ctcaagaaga tcctttgatc ttttctacgg ggtctgacgc tcagtggaac gacgcgcgcg
+     6421 taactcacgt taagggattt tggtcatgag cttgcgccgt cccgtcaagt cagcgtaatg
+     6481 ctctgctt
+//
